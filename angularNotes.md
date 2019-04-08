@@ -40,7 +40,7 @@
 		<span *ngIf = "isavailable; else condition1">Condition</span>
 		<ng-template #condition>Condition</ng-template>
 
-	* *as* keyword in for loops.
+	* _as_ keyword in for loops.
 
 	* animation package.
 
