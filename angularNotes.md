@@ -39,10 +39,7 @@
 	* ngIf = Support angular if available.
 		<span *ngIf = "isavailable; else condition1">Condition</span>
 		<ng-template #condition>Condition</ng-template>
-
 	* _as_ keyword in for loops.
-
 	* animation package.
-
 	* ng-template 
 		depreciates the <template> tag because of naming conflicts with html <template> tag.
